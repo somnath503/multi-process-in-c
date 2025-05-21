@@ -41,3 +41,5 @@
         -Round Robin: Each job gets a fixed time slice in rotation.
 
     Helps understand how CPU manages multiple processes.
+
+   here i am upload a file from there you can download all program in form of pdf 
